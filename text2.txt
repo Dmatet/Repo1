@@ -1,12 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 1A23-F97A
-
- Directory of C:\Users\User\Desktop\Git\My folder
-
-05/08/2020  01:07 PM    <DIR>          .
-05/08/2020  01:07 PM    <DIR>          ..
-05/07/2020  08:25 PM                 8 text1.html
-05/07/2020  08:11 PM                 8 text1.txt
-05/08/2020  01:07 PM                 0 text2.txt
-               3 File(s)             16 bytes
-               2 Dir(s)  72,543,420,416 bytes free
+change 2
